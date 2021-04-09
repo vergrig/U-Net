@@ -9,4 +9,4 @@ Implementation of U-Net architecture with variable depth using PyTorch
 
 **U-Net.py** - the U-Net class itself
 
-**training-loop.py** - the U-Net class itself
+**training-loop.py** - a training loop with logging
