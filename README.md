@@ -5,7 +5,7 @@ Implementation of U-Net architecture with variable depth using PyTorch
 
 **Image_Recognition_Overview.ipynb** - an interactive non-comprehensive overview of different image recognition architectures
 
-**Nii_Dataset.py** - a custom dataset for reading nifti files as lists of tensors
+**Nii_Dataset.py** - a custom dataset for working with medical data
 
 **U-Net.py** - the U-Net class itself
 
